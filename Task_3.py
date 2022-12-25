@@ -1,0 +1,13 @@
+a=1
+result=a<2
+print(result)
+result=a+3>3
+print(result)
+result=a==1
+print(result)
+result=a!=3
+print(result)
+result=a>=1
+print(result)
+result=a+3<=5
+print(result)
