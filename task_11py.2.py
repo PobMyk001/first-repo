@@ -4,8 +4,4 @@ class MyCustomeExcpetion(Exception):
         super().__init__(self.message)
 
         def str(self):
-            return  f"{self.message}"
-
-
-
-
+            return f"{self.message}"
